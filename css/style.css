@@ -1,0 +1,13 @@
+.dasColor{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.hover:hover{
+    background-color: #32f4e3;
+    border-radius: 10px;
+    font-size: 25px;
+}
+.size{
+    height: 500px;
+    width: 1000;
+    border-radius: 10px;
+}
